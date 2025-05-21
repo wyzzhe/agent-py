@@ -1,0 +1,39 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment folder
+venv/
+env/
+
+# IDE-specific files (for example, VS Code or PyCharm)
+.vscode/
+.idea/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# OS-generated files (MacOS, Windows, etc.)
+.DS_Store
+Thumbs.db
+
+# dotenv environment variables file
+.env
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Python distributions (build, dist)
+build/
+dist/
+*.egg-info/
+
+# pytest cache
+.pytest_cache/
+
+# Coverage reports
+coverage/
+*.coveragerc
